@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there 👋
+My name is Ivan Javier Bell and i am looking to collaborate in or be part of a project that develops solutions based on software
 
-<!--
-**Navixvi/Navixvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+On my way to being a web developer I have learned:
 
-Here are some ideas to get you started:
+💻Technologies:
+DataBase ✔ ProstgreSQL ✔ Sequelize
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend ✔ node.js - npm ✔ Web Server ✔ Express.js ✔ Testing
+
+Frontend ✔ HTML | CSS | Js ✔ React.js ✔ Redux
+
+Other
+
+✔ Git
+✔ WSL
+📌 Technologies and Methodologies to learn soon
+CSS: +JavaScrip: ✔ Typescript ✔ PHP
+
+🌱 my next study goals are:
+Software development.
+
+
+👨‍🎓 Platform courses:
+💛 HENRY - Full Stack Developer - PERN
+📫 LinkedIn: www.linkedin.com/in/ivan-javier-bell
+website https://github.com/Navixvi
