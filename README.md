@@ -35,8 +35,8 @@ Software development.
 
 
 ## 👨‍🎓 Platform courses:
-*💛 HENRY - Full Stack Developer - PERN
+✔💛 HENRY - Full Stack Developer - PERN
 
-##📫 LinkedIn: www.linkedin.com/in/ivan-javier-bell
+✔📫 LinkedIn: www.linkedin.com/in/ivan-javier-bell
 
 ## website https://github.com/Navixvi
