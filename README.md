@@ -38,5 +38,5 @@ Software development.
 ✔💛 HENRY - Full Stack Developer - PERN
 
 ✔📫 LinkedIn: www.linkedin.com/in/ivan-javier-bell
-
+✔📫 Mail: ivanjavierbell@gmail.com
 ## website https://github.com/Navixvi
